@@ -1,5 +1,4 @@
-# Primitive neuron model
-#Supervised Classification Type
+# Primitive neuron model - Supervised Classification Type
 
 Description:
         Breast cancer dataset is loaded from the sklearn package . Primitive Neuron models like McCulloch Pitts Neuron(MP Neuron) and Perceptron are used to classify data. It is a biary classification Model . The model will predict whether a test sample falls under Benign or Malignant type .
