@@ -1,2 +1,2 @@
-# Hello-world
+# Primitive neuron model
 First repository
